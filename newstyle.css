@@ -1,0 +1,28 @@
+@charset "utf-8";
+.container {
+    background-color: #63ADC4;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #D8282B;
+    -webkit-box-shadow: 10px 10px;
+    box-shadow: 10px 10px;
+    padding-right: 8px;
+}
+.container-fluid #accordion1 .card {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,231,255,1.00) 9.33%,rgba(184,193,255,1.00) 27.56%,rgba(124,255,171,1.00) 51.19%,rgba(207,255,58,1.00) 76.89%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,231,255,1.00) 9.33%,rgba(184,193,255,1.00) 27.56%,rgba(124,255,171,1.00) 51.19%,rgba(207,255,58,1.00) 76.89%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(254,231,255,1.00) 9.33%,rgba(184,193,255,1.00) 27.56%,rgba(124,255,171,1.00) 51.19%,rgba(207,255,58,1.00) 76.89%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(254,231,255,1.00) 9.33%,rgba(184,193,255,1.00) 27.56%,rgba(124,255,171,1.00) 51.19%,rgba(207,255,58,1.00) 76.89%,rgba(255,0,0,1.00) 100%);
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+}
+.container .container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #4A368E;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(167,110,110,1.00) 54.92%,rgba(167,128,128,1.00) 79.38%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(167,110,110,1.00) 54.92%,rgba(167,128,128,1.00) 79.38%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(167,110,110,1.00) 54.92%,rgba(167,128,128,1.00) 79.38%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(167,110,110,1.00) 54.92%,rgba(167,128,128,1.00) 79.38%,rgba(255,0,0,1.00) 100%);
+}
